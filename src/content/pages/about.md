@@ -5,9 +5,9 @@ title: Эмнэлэгийн тухай
 ---
 Гарчиг.
 
-![](/assets/alex-zr48yvupk04-unsplash.jpg "")
+![hospital](/assets/chagnuur.jpg "hospital")
 
-Оршил ! **Ишлэл** *Ташуу.*
+Оршил ! **Ишлэл** _Ташуу._
 
 Нэг фараграф
 

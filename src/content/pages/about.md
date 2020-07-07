@@ -5,7 +5,7 @@ title: Эмнэлэгийн тухай
 ---
 Гарчиг.
 
-![hospital](/assets/chagnuur.jpg "hospital")
+![hospital](/assets/hospital.jpg "hospital")
 
 Оршил ! **Ишлэл** _Ташуу._
 
